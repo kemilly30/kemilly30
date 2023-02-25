@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi!!! I'm Kemilly 👋
 
 <!--
-**kemilly30/kemilly30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Faariaas/Faariaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/kemilly30/">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kemilly30&show_icons=false&theme=dracula&title_color=1DE0BC&include_all_commits=true&count_private=true"/>
+    
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemilly30&layout=compact&langs_count=7&theme=dracula&title_color=1DE0BC"/>
