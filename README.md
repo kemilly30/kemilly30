@@ -1,7 +1,7 @@
-### Hi!!! I'm Kemilly 👋
+### Hi!!! Sou Kemilly 👋
 
 <!--
-**Faariaas/Faariaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kemilly30/kemilly30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/kemilly30/">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kemilly30&show_icons=false&theme=github_dark&title_color=1DE0BC&include_all_commits=true&count_private=true"/>
     
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemilly30&layout=compact&langs_count=7&theme=github_dark&title_color=1DE0BC"/>
+### Essas sao minhas redes socias
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eukemillysantos/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kemilly-pires-90a583184/)
